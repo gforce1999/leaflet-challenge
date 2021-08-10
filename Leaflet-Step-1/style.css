@@ -12,6 +12,8 @@ html {
 }
 
 .legend {
+  background-color: aliceblue;
+  opacity: 1;
   line-height: 18px;
   color: #555;
 }
